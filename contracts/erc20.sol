@@ -12,7 +12,7 @@ contract Owner{
 
 }
 
-contract MyContract is Owner{
+contract MyContract is Owner {
 
     mapping(address => uint) balances;
 
