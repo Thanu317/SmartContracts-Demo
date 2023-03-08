@@ -3,7 +3,7 @@ name: Slither Smart Contract Audit
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   audit:
